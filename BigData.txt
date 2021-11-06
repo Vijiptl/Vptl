@@ -1,0 +1,10 @@
+i-0b4dc85aaa8cd27d7 (RedHat servo)
+Open an SSH client.
+Locate your private key file. The key used to launch this instance is vijayptl.pem
+Run this command, if necessary, to ensure your key is not publicly viewable.
+ chmod 400 vijayptl.pem
+Connect to your instance using its Public DNS:
+ ec2-3-108-228-200.ap-south-1.compute.amazonaws.com
+Example:
+ ssh -i "vijayptl.pem" ec2-user@ec2-3-108-228-200.ap-south-1.compute.amazonaws.com
+Note: In most cases, the guessed user name is correct. However, read your AMI usage instructions to check if the AMI owner has changed the default AMI user name.
