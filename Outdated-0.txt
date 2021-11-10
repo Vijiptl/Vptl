@@ -16,3 +16,14 @@ Topics -:
 3. DevOps Lifecycle
 4. DevOps Stages
 5. DevOps Delivery Pipeline
+
+Version Control with Git -:
+
+Goal -: In this module, you will gain insights into Source Control Management and learn the
+functionalities of Git.
+
+Objectives -: After completing this module, you should be able to
+1. Understand Version Control
+2. Perform management of files for small as well as large projects
+3. Perform various Git commands such as git add, git fetch, git commit, git init, etc.
+4. Work with remote repositories
