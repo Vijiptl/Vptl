@@ -1,0 +1,18 @@
+"DevOps Course Curriculum"
+
+Overview of DevOps -
+
+Goal -:In this module, you will be introduced to the DevOps environment.
+
+Objectives -: After completing this module, you should be able to
+Understand the benefits of DevOps over other software development processes
+Gain insights into the DevOps environment
+Get an overview of different DevOps Tools
+Get a picture of the working of the DevOps Delivery Pipeline
+
+Topics -:
+1. Introduction to DevOps
+2. Benefits of working in a DevOps environment
+3. DevOps Lifecycle
+4. DevOps Stages
+5. DevOps Delivery Pipeline
